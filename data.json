@@ -1,6 +1,6 @@
 {
     "mode": "auto",
-    "title": "我的NAS",
+    "title": "GeoNAS",
     "showDesc": false,
     "services": [       
         {
@@ -21,7 +21,7 @@
         },
           {
             "name": "Aria",
-            "icon": "./images/AriaNg.ico",
+            "icon": "./images/Downloads.png",
             "desc": "Aria",
             "showDesc": false,
             "internalUrl": "https://192.168.50.100:6888",
